@@ -1,0 +1,62 @@
+[
+{
+    "fields": {
+        "edited": "2014-12-20T19:49:45.256Z",
+        "title": "A New Hope",
+        "created": "2014-12-10T14:23:31.880Z",
+        "release_date": "1977-05-25"
+    },
+    "model": "favorites.Movies",
+    "pk": 1
+},
+{
+    "fields": {
+        "edited": "2014-12-15T13:07:53.386Z",
+        "title": "The Empire Strikes Back",
+        "created": "2014-12-12T11:26:24.656Z",
+        "release_date": "1980-05-17"
+    },
+    "model": "favorites.Movies",
+    "pk": 2
+},
+{
+    "fields": {
+        "edited": "2014-12-20T09:48:37.462Z",
+        "title": "Return of the Jedi",
+        "created": "2014-12-18T10:39:33.255Z",
+        "release_date": "1983-05-25"
+    },
+    "model": "favorites.Movies",
+    "pk": 3
+},
+{
+    "fields": {
+        "edited": "2014-12-20T10:54:07.216Z",
+        "title": "The Phantom Menace",
+        "created": "2014-12-19T16:52:55.740Z",
+        "release_date": "1999-05-19"
+    },
+    "model": "favorites.Movies",
+    "pk": 4
+},
+{
+    "fields": {
+        "edited": "2014-12-20T20:18:48.516Z",
+        "title": "Attack of the Clones",
+        "created": "2014-12-20T10:57:57.886Z",
+        "release_date": "2002-05-16"
+    },
+    "model": "favorites.Movies",
+    "pk": 5
+},
+{
+    "fields": {
+        "edited": "2014-12-20T20:47:52.073Z",
+        "title": "Revenge of the Sith",
+        "created": "2014-12-20T18:49:38.403Z",
+        "release_date": "2005-05-19"
+    },
+    "model": "favorites.Movies",
+    "pk": 6
+}
+]
