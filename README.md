@@ -1,4 +1,3 @@
-# SpotDraft
 To run server on local: 
 `python manage.py runserver`
 
