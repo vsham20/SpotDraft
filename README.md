@@ -8,9 +8,9 @@ To run server on local:
 
 - MUST expose list APIs - one for movies and one for planets
 ~~~~
-Movies: **GET** http://127.0.0.1:8000/api/movies/
+Movies: GET http://127.0.0.1:8000/api/movies/
 
-Planets: **GET** http://127.0.0.1:8000/api/planets/
+Planets: GET http://127.0.0.1:8000/api/planets/
 ~~~~
 - MUST expose APIs to add a movie and planet as a favorite
 ~~~~
